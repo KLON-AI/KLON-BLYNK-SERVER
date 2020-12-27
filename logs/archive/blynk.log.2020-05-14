@@ -1,0 +1,49 @@
+09:38:05.533 INFO - Using data dir 'dataFolder'
+09:38:06.899 INFO - Region : local. Host : 192.168.56.1.
+09:38:08.883 INFO - Initializing gmail smtp mail transport. Username : bangerakritik@gmail.com. SMTP host : smtp.gmail.com:587
+09:38:08.948 INFO - Reports : 0
+09:38:08.948 INFO - Didn't find custom user certificates.
+09:38:08.951 INFO - Didn't find Let's Encrypt certificates.
+09:38:08.951 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+09:38:08.951 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+09:38:15.012 INFO - HTTP API and WebSockets server listening at 8080 port.
+09:38:15.013 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+09:38:15.015 INFO - Mqtt hardware server listening at 8440 port.
+09:38:16.586 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+09:39:09.032 INFO - bangerakritik@gmail.com hardware joined.
+09:41:03.876 INFO - bangerakritik@gmail.com hardware joined.
+09:42:01.993 INFO - bangerakritik@gmail.com hardware joined.
+09:43:42.535 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+11:06:11.685 INFO - bangerakritik@gmail.com hardware joined.
+11:06:55.915 INFO - bangerakritik@gmail.com hardware joined.
+15:42:26.422 INFO - Using data dir 'dataFolder'
+15:42:27.373 INFO - Region : local. Host : 192.168.56.1.
+15:42:28.668 INFO - Initializing gmail smtp mail transport. Username : bangerakritik@gmail.com. SMTP host : smtp.gmail.com:587
+15:42:28.706 INFO - Reports : 0
+15:42:28.707 INFO - Didn't find custom user certificates.
+15:42:28.709 INFO - Didn't find Let's Encrypt certificates.
+15:42:28.709 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+15:42:28.709 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+15:42:41.705 ERROR- Error initializing HTTP API and WebSockets, port 8080
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method) ~[?:1.8.0_251]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[?:1.8.0_251]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[?:1.8.0_251]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source) ~[?:1.8.0_251]
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:134) ~[server.jar:?]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:551) ~[server.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1346) ~[server.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:503) ~[server.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:488) ~[server.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:985) ~[server.jar:?]
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:247) ~[server.jar:?]
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:344) ~[server.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163) ~[server.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:510) ~[server.jar:?]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:518) ~[server.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1050) ~[server.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[server.jar:?]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_251]
+15:43:57.920 INFO - bangerakritik@gmail.com hardware joined.
+15:44:39.471 INFO - bangerakritik@gmail.com hardware joined.

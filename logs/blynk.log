@@ -1,0 +1,31 @@
+10:57:35.658 INFO - Using data dir 'dataFolder'
+10:57:35.990 INFO - Region : local. Host : 192.168.26.3.
+10:57:36.346 INFO - Initializing gmail smtp mail transport. Username : bangerakritik@gmail.com. SMTP host : smtp.gmail.com:587
+10:57:36.409 INFO - Reports : 0
+10:57:36.410 INFO - Didn't find custom user certificates.
+10:57:36.411 INFO - Didn't find Let's Encrypt certificates.
+10:57:36.411 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+10:57:36.411 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+10:57:37.273 INFO - HTTP API and WebSockets server listening at 8080 port.
+10:57:37.274 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+10:57:37.274 INFO - Mqtt hardware server listening at 8440 port.
+10:57:51.402 INFO - bangerakritik@gmail.com Blynk-app (android-22721) joined.
+10:58:00.203 INFO - bangerakritik@gmail.com hardware joined.
+11:04:21.761 INFO - bangerakritik@gmail.com Blynk-app (android-22721) joined.
+11:12:58.220 INFO - bangerakritik@gmail.com Blynk-app (android-22721) joined.
+11:22:02.729 INFO - bangerakritik@gmail.com hardware joined.
+11:22:49.386 INFO - bangerakritik@gmail.com hardware joined.
+11:23:31.972 INFO - bangerakritik@gmail.com hardware joined.
+11:24:44.559 INFO - bangerakritik@gmail.com Blynk-app (android-22721) joined.
+11:25:27.894 INFO - bangerakritik@gmail.com hardware joined.
+11:26:25.150 INFO - bangerakritik@gmail.com Blynk-app (android-22721) joined.
+11:29:52.416 INFO - bangerakritik@gmail.com hardware joined.
+11:52:19.905 INFO - bangerakritik@gmail.com hardware joined.
+12:24:31.041 INFO - bangerakritik@gmail.com Blynk-app (android-22721) joined.
+12:24:51.022 INFO - bangerakritik@gmail.com hardware joined.
+12:33:05.635 INFO - bangerakritik@gmail.com hardware joined.
+12:37:19.679 INFO - bangerakritik@gmail.com Blynk-app (android-22721) joined.
+13:11:40.572 INFO - bangerakritik@gmail.com hardware joined.
+13:12:31.954 INFO - bangerakritik@gmail.com Blynk-app (android-22721) joined.
+13:15:29.137 INFO - bangerakritik@gmail.com hardware joined.
+13:47:58.145 INFO - bangerakritik@gmail.com Blynk-app (android-22721) joined.

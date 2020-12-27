@@ -1,0 +1,37 @@
+12:31:39.342 INFO - Using data dir 'dataFolder'
+12:31:39.727 INFO - Region : local. Host : 192.168.26.3.
+12:31:40.061 INFO - Initializing gmail smtp mail transport. Username : bangerakritik@gmail.com. SMTP host : smtp.gmail.com:587
+12:31:40.126 INFO - Reports : 0
+12:31:40.126 INFO - Didn't find custom user certificates.
+12:31:40.128 INFO - Didn't find Let's Encrypt certificates.
+12:31:40.128 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+12:31:40.128 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+12:31:40.973 INFO - HTTP API and WebSockets server listening at 8080 port.
+12:31:40.973 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+12:31:40.974 INFO - Mqtt hardware server listening at 8440 port.
+12:40:09.441 INFO - bangerakritik@gmail.com hardware joined.
+12:40:50.116 INFO - bangerakritik@gmail.com Blynk-app (android-22721) joined.
+12:47:20.193 INFO - bangerakritik@gmail.com hardware joined.
+12:48:12.621 INFO - bangerakritik@gmail.com hardware joined.
+12:48:33.711 INFO - bangerakritik@gmail.com Blynk-app (android-22721) joined.
+12:49:34.815 INFO - bangerakritik@gmail.com hardware joined.
+12:54:08.326 INFO - bangerakritik@gmail.com hardware joined.
+17:13:00.232 INFO - Using data dir 'dataFolder'
+17:13:00.903 INFO - Region : local. Host : 192.168.26.3.
+17:13:01.442 INFO - Initializing gmail smtp mail transport. Username : bangerakritik@gmail.com. SMTP host : smtp.gmail.com:587
+17:13:01.566 INFO - Reports : 0
+17:13:01.567 INFO - Didn't find custom user certificates.
+17:13:01.569 INFO - Didn't find Let's Encrypt certificates.
+17:13:01.569 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+17:13:01.569 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+17:13:03.746 INFO - HTTP API and WebSockets server listening at 8080 port.
+17:13:03.747 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+17:13:03.749 INFO - Mqtt hardware server listening at 8440 port.
+17:13:39.140 INFO - bangerakritik@gmail.com hardware joined.
+17:17:26.201 INFO - bangerakritik@gmail.com hardware joined.
+19:17:29.614 INFO - bangerakritik@gmail.com hardware joined.
+19:20:39.070 INFO - bangerakritik@gmail.com hardware joined.
+19:21:28.344 INFO - bangerakritik@gmail.com hardware joined.
+19:31:33.135 INFO - bangerakritik@gmail.com hardware joined.
+19:32:38.142 INFO - bangerakritik@gmail.com hardware joined.
+21:42:30.426 INFO - bangerakritik@gmail.com hardware joined.

@@ -1,0 +1,23 @@
+20:33:17.883 INFO - Using data dir 'dataFolder'
+20:33:18.285 INFO - Region : local. Host : 192.168.56.1.
+20:33:18.796 INFO - Initializing gmail smtp mail transport. Username : bangerakritik@gmail.com. SMTP host : smtp.gmail.com:587
+20:33:18.809 INFO - Reports : 0
+20:33:18.809 INFO - Didn't find custom user certificates.
+20:33:18.810 INFO - Didn't find Let's Encrypt certificates.
+20:33:18.810 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+20:33:18.810 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+20:33:21.148 INFO - HTTP API and WebSockets server listening at 8080 port.
+20:33:21.149 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+20:33:21.149 INFO - Mqtt hardware server listening at 8440 port.
+20:33:21.962 INFO - bangerakritik@gmail.com hardware joined.
+20:42:33.960 INFO - bangerakritik@gmail.com hardware joined.
+20:47:23.369 INFO - bangerakritik@gmail.com hardware joined.
+20:51:25.116 INFO - bangerakritik@gmail.com hardware joined.
+20:53:10.149 INFO - bangerakritik@gmail.com hardware joined.
+20:56:20.520 INFO - bangerakritik@gmail.com hardware joined.
+21:05:23.653 INFO - bangerakritik@gmail.com hardware joined.
+21:09:19.636 INFO - bangerakritik@gmail.com hardware joined.
+21:09:42.894 INFO - bangerakritik@gmail.com hardware joined.
+21:11:13.532 INFO - bangerakritik@gmail.com hardware joined.
+21:17:07.947 INFO - bangerakritik@gmail.com hardware joined.
+21:52:16.070 INFO - bangerakritik@gmail.com hardware joined.

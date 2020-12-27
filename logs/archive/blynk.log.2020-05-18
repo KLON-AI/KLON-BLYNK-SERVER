@@ -1,0 +1,11 @@
+14:59:26.754 INFO - Using data dir 'dataFolder'
+14:59:27.193 INFO - Region : local. Host : 192.168.56.1.
+14:59:27.802 INFO - Initializing gmail smtp mail transport. Username : bangerakritik@gmail.com. SMTP host : smtp.gmail.com:587
+14:59:27.817 INFO - Reports : 0
+14:59:27.817 INFO - Didn't find custom user certificates.
+14:59:27.818 INFO - Didn't find Let's Encrypt certificates.
+14:59:27.818 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+14:59:27.818 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+14:59:29.960 INFO - HTTP API and WebSockets server listening at 8080 port.
+14:59:29.961 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+14:59:29.962 INFO - Mqtt hardware server listening at 8440 port.

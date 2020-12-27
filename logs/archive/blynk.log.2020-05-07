@@ -1,0 +1,59 @@
+00:55:19.304 INFO - bangerakritik@gmail.com hardware joined.
+00:56:48.627 INFO - bangerakritik@gmail.com hardware joined.
+00:57:15.329 INFO - bangerakritik@gmail.com hardware joined.
+00:57:39.165 INFO - bangerakritik@gmail.com hardware joined.
+00:57:43.295 INFO - bangerakritik@gmail.com hardware joined.
+00:58:32.005 INFO - bangerakritik@gmail.com hardware joined.
+01:18:55.635 INFO - bangerakritik@gmail.com hardware joined.
+01:19:22.314 INFO - bangerakritik@gmail.com hardware joined.
+07:00:49.143 INFO - bangerakritik@gmail.com hardware joined.
+07:03:26.387 INFO - bangerakritik@gmail.com hardware joined.
+07:38:33.557 INFO - bangerakritik@gmail.com hardware joined.
+07:41:01.291 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+07:41:33.984 INFO - bangerakritik@gmail.com hardware joined.
+07:42:41.996 INFO - bangerakritik@gmail.com hardware joined.
+07:45:03.542 INFO - bangerakritik@gmail.com hardware joined.
+07:45:13.286 INFO - bangerakritik@gmail.com hardware joined.
+07:48:40.220 INFO - bangerakritik@gmail.com hardware joined.
+07:50:26.708 INFO - bangerakritik@gmail.com hardware joined.
+08:23:03.997 INFO - bangerakritik@gmail.com hardware joined.
+08:25:20.546 INFO - bangerakritik@gmail.com hardware joined.
+08:27:09.791 INFO - bangerakritik@gmail.com hardware joined.
+08:28:14.919 INFO - bangerakritik@gmail.com hardware joined.
+08:29:15.852 INFO - bangerakritik@gmail.com hardware joined.
+08:29:56.835 INFO - bangerakritik@gmail.com hardware joined.
+08:31:17.823 INFO - bangerakritik@gmail.com hardware joined.
+08:32:42.166 INFO - bangerakritik@gmail.com hardware joined.
+08:33:39.142 INFO - bangerakritik@gmail.com hardware joined.
+08:34:26.987 INFO - bangerakritik@gmail.com hardware joined.
+08:36:38.516 INFO - bangerakritik@gmail.com hardware joined.
+08:37:21.142 INFO - bangerakritik@gmail.com hardware joined.
+08:40:07.666 INFO - bangerakritik@gmail.com hardware joined.
+08:40:25.119 INFO - bangerakritik@gmail.com hardware joined.
+08:51:17.475 INFO - bangerakritik@gmail.com hardware joined.
+09:06:20.371 INFO - bangerakritik@gmail.com hardware joined.
+09:10:06.495 INFO - bangerakritik@gmail.com hardware joined.
+09:11:26.209 INFO - bangerakritik@gmail.com hardware joined.
+09:11:58.466 INFO - bangerakritik@gmail.com hardware joined.
+09:13:53.572 INFO - bangerakritik@gmail.com hardware joined.
+09:23:40.169 INFO - bangerakritik@gmail.com hardware joined.
+09:28:02.636 INFO - bangerakritik@gmail.com hardware joined.
+09:40:30.256 INFO - bangerakritik@gmail.com hardware joined.
+09:48:12.892 INFO - bangerakritik@gmail.com hardware joined.
+09:49:31.317 INFO - bangerakritik@gmail.com hardware joined.
+09:55:54.945 INFO - bangerakritik@gmail.com hardware joined.
+13:22:59.585 INFO - Using data dir 'dataFolder'
+13:23:00.005 INFO - Region : local. Host : 192.168.1.103.
+13:23:00.371 INFO - Initializing gmail smtp mail transport. Username : bangerakritik@gmail.com. SMTP host : smtp.gmail.com:587
+13:23:00.385 INFO - Reports : 0
+13:23:00.385 INFO - Didn't find custom user certificates.
+13:23:00.386 INFO - Didn't find Let's Encrypt certificates.
+13:23:00.386 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+13:23:00.386 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+13:23:02.113 INFO - HTTP API and WebSockets server listening at 8080 port.
+13:23:02.114 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+13:23:02.115 INFO - Mqtt hardware server listening at 8440 port.
+13:23:03.476 INFO - bangerakritik@gmail.com hardware joined.
+13:25:07.678 INFO - bangerakritik@gmail.com hardware joined.
+13:25:40.197 INFO - bangerakritik@gmail.com hardware joined.
+20:28:18.376 INFO - bangerakritik@gmail.com hardware joined.

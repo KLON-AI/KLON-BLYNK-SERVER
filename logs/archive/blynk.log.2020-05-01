@@ -1,0 +1,468 @@
+06:36:37.913 INFO - Using data dir 'dataFolder'
+06:36:38.250 INFO - Region : local. Host : 192.168.1.103.
+06:36:39.737 INFO - Initializing gmail smtp mail transport. Username : bangerakritik@gmail.com. SMTP host : smtp.gmail.com:587
+06:36:39.771 INFO - Reports : 0
+06:36:39.771 INFO - Didn't find custom user certificates.
+06:36:39.772 INFO - Didn't find Let's Encrypt certificates.
+06:36:39.772 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+06:36:39.772 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+06:36:41.158 INFO - HTTP API and WebSockets server listening at 8080 port.
+06:36:41.159 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+06:36:41.159 INFO - Mqtt hardware server listening at 8440 port.
+06:36:59.273 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+06:37:11.451 INFO - Creating new dashboard.
+06:37:32.543 ERROR- Error sending email auth token to user : bangerakritik@gmail.com. Error: Couldn't connect to host, port: smtp.gmail.com, 587; timeout 30000
+07:05:44.720 INFO - Using data dir 'dataFolder'
+07:05:45.067 INFO - Region : local. Host : 192.168.1.103.
+07:05:45.505 INFO - Initializing gmail smtp mail transport. Username : bangerakritik@gmail.com. SMTP host : smtp.gmail.com:587
+07:05:45.520 INFO - Reports : 0
+07:05:45.520 INFO - Didn't find custom user certificates.
+07:05:45.521 INFO - Didn't find Let's Encrypt certificates.
+07:05:45.521 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+07:05:45.521 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+07:05:46.466 INFO - HTTP API and WebSockets server listening at 8080 port.
+07:05:46.466 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+07:05:46.467 INFO - Mqtt hardware server listening at 8440 port.
+07:05:47.940 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+07:07:41.230 INFO - Updating config single_token_mail_body.txt. New body : 
+07:07:41.230 INFO - <h2>KLON A.I. API TOKEN</h2>
+07:07:49.585 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+07:13:47.572 INFO - Using data dir 'E:\Server\dataFolder'
+07:13:47.879 INFO - Region : local. Host : 192.168.1.103.
+07:13:49.292 INFO - Initializing gmail smtp mail transport. Username : bangerakritik@gmail.com. SMTP host : smtp.gmail.com:587
+07:13:49.306 INFO - Reports : 0
+07:13:49.306 INFO - Didn't find custom user certificates.
+07:13:49.306 INFO - Didn't find Let's Encrypt certificates.
+07:13:49.306 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+07:13:49.306 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+07:13:51.714 INFO - HTTP API and WebSockets server listening at 8080 port.
+07:13:51.714 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+07:13:51.715 INFO - Mqtt hardware server listening at 8440 port.
+07:13:59.001 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+07:14:48.676 INFO - Using data dir 'E:\Server\dataFolder'
+07:14:48.981 INFO - Region : local. Host : 192.168.1.103.
+07:14:49.389 INFO - Initializing gmail smtp mail transport. Username : bangerakritik@gmail.com. SMTP host : smtp.gmail.com:587
+07:14:49.403 INFO - Reports : 0
+07:14:49.403 INFO - Didn't find custom user certificates.
+07:14:49.404 INFO - Didn't find Let's Encrypt certificates.
+07:14:49.404 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+07:14:49.404 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+07:14:52.257 INFO - HTTP API and WebSockets server listening at 8080 port.
+07:14:52.258 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+07:14:52.259 INFO - Mqtt hardware server listening at 8440 port.
+07:14:57.779 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+07:17:27.360 INFO - Using data dir 'C:\Users\bange\AppData\Local\Temp\blynk'
+07:17:27.416 INFO - Region : local. Host : 192.168.1.103.
+07:17:28.864 INFO - Initializing gmail smtp mail transport. Username : bangerakritik@gmail.com. SMTP host : smtp.gmail.com:587
+07:17:28.996 INFO - Reports : 0
+07:17:28.996 INFO - Didn't find custom user certificates.
+07:17:28.997 INFO - Didn't find Let's Encrypt certificates.
+07:17:28.997 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+07:17:28.997 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+07:17:31.870 INFO - HTTP API and WebSockets server listening at 8080 port.
+07:17:31.871 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+07:17:31.871 INFO - Mqtt hardware server listening at 8440 port.
+07:18:12.471 INFO - Using data dir 'C:\Users\bange\AppData\Local\Temp\blynk'
+07:18:12.774 INFO - Region : local. Host : 192.168.1.103.
+07:18:14.200 INFO - Initializing gmail smtp mail transport. Username : bangerakritik@gmail.com. SMTP host : smtp.gmail.com:587
+07:18:14.214 INFO - Reports : 0
+07:18:14.214 INFO - Didn't find custom user certificates.
+07:18:14.215 INFO - Didn't find Let's Encrypt certificates.
+07:18:14.215 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+07:18:14.215 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+07:18:17.892 INFO - HTTP API and WebSockets server listening at 8080 port.
+07:18:17.893 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+07:18:17.894 INFO - Mqtt hardware server listening at 8440 port.
+07:18:53.305 INFO - Using data dir 'C:\Users\bange\AppData\Local\Temp\blynk'
+07:18:53.610 INFO - Region : local. Host : 192.168.1.103.
+07:18:54.013 INFO - Initializing gmail smtp mail transport. Username : bangerakritik@gmail.com. SMTP host : smtp.gmail.com:587
+07:18:54.027 INFO - Reports : 0
+07:18:54.027 INFO - Didn't find custom user certificates.
+07:18:54.028 INFO - Didn't find Let's Encrypt certificates.
+07:18:54.028 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+07:18:54.028 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+07:18:55.626 INFO - HTTP API and WebSockets server listening at 8080 port.
+07:18:55.627 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+07:18:55.628 INFO - Mqtt hardware server listening at 8440 port.
+07:19:26.513 INFO - Using data dir 'dataFolder'
+07:19:26.896 INFO - Region : local. Host : 192.168.1.103.
+07:19:27.343 INFO - Initializing gmail smtp mail transport. Username : bangerakritik@gmail.com. SMTP host : smtp.gmail.com:587
+07:19:27.357 INFO - Reports : 0
+07:19:27.357 INFO - Didn't find custom user certificates.
+07:19:27.358 INFO - Didn't find Let's Encrypt certificates.
+07:19:27.358 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+07:19:27.358 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+07:19:28.934 INFO - HTTP API and WebSockets server listening at 8080 port.
+07:19:28.935 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+07:19:28.935 INFO - Mqtt hardware server listening at 8440 port.
+07:19:34.169 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+07:23:55.005 INFO - Using data dir 'dataFolder'
+07:23:55.322 INFO - Region : local. Host : 192.168.1.103.
+07:23:56.741 INFO - Initializing gmail smtp mail transport. Username : bangerakritik@gmail.com. SMTP host : smtp.gmail.com:587
+07:23:56.755 INFO - Reports : 0
+07:23:56.756 INFO - Didn't find custom user certificates.
+07:23:56.756 INFO - Didn't find Let's Encrypt certificates.
+07:23:56.756 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+07:23:56.756 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+07:23:58.297 ERROR- Error initializing HTTP API and WebSockets, port 8080
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method) ~[?:1.8.0_251]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[?:1.8.0_251]
+	at sun.nio.ch.Net.bind(Unknown Source) ~[?:1.8.0_251]
+	at sun.nio.ch.ServerSocketChannelImpl.bind(Unknown Source) ~[?:1.8.0_251]
+	at io.netty.channel.socket.nio.NioServerSocketChannel.doBind(NioServerSocketChannel.java:134) ~[server.jar:?]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:551) ~[server.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1346) ~[server.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:503) ~[server.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:488) ~[server.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:985) ~[server.jar:?]
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:247) ~[server.jar:?]
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:344) ~[server.jar:?]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163) ~[server.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:510) ~[server.jar:?]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:518) ~[server.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$6.run(SingleThreadEventExecutor.java:1050) ~[server.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[server.jar:?]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_251]
+07:25:15.458 INFO - Using data dir 'dataFolder'
+07:25:15.769 INFO - Region : local. Host : 192.168.1.103.
+07:25:16.169 INFO - Initializing gmail smtp mail transport. Username : bangerakritik@gmail.com. SMTP host : smtp.gmail.com:587
+07:25:16.183 INFO - Reports : 0
+07:25:16.183 INFO - Didn't find custom user certificates.
+07:25:16.184 INFO - Didn't find Let's Encrypt certificates.
+07:25:16.184 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+07:25:16.184 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+07:25:18.543 INFO - HTTP API and WebSockets server listening at 8080 port.
+07:25:18.544 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+07:25:18.544 INFO - Mqtt hardware server listening at 8440 port.
+07:28:26.282 INFO - Using data dir 'dataFolder'
+07:28:26.590 INFO - Region : local. Host : 192.168.1.103.
+07:28:28.013 INFO - Initializing gmail smtp mail transport. Username : bangerakritik@gmail.com. SMTP host : smtp.gmail.com:587
+07:28:28.027 INFO - Reports : 0
+07:28:28.027 INFO - Didn't find custom user certificates.
+07:28:28.028 INFO - Didn't find Let's Encrypt certificates.
+07:28:28.028 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+07:28:28.028 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+07:28:29.168 INFO - HTTP API and WebSockets server listening at 8080 port.
+07:28:29.169 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+07:28:29.169 INFO - Mqtt hardware server listening at 8440 port.
+07:31:42.042 INFO - Using data dir 'dataFolder'
+07:31:42.353 INFO - Region : local. Host : 192.168.1.103.
+07:31:43.778 INFO - Initializing gmail smtp mail transport. Username : bangerakritik@gmail.com. SMTP host : smtp.gmail.com:587
+07:31:43.792 INFO - Reports : 0
+07:31:43.792 INFO - Didn't find custom user certificates.
+07:31:43.792 INFO - Didn't find Let's Encrypt certificates.
+07:31:43.792 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+07:31:43.792 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+07:31:46.484 INFO - HTTP API and WebSockets server listening at 8080 port.
+07:31:46.485 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+07:31:46.486 INFO - Mqtt hardware server listening at 8440 port.
+07:31:59.820 INFO - Using data dir 'dataFolder'
+07:32:00.131 INFO - Region : local. Host : 192.168.1.103.
+07:32:00.540 INFO - Initializing gmail smtp mail transport. Username : bangerakritik@gmail.com. SMTP host : smtp.gmail.com:587
+07:32:00.554 INFO - Reports : 0
+07:32:00.554 INFO - Didn't find custom user certificates.
+07:32:00.574 INFO - Didn't find Let's Encrypt certificates.
+07:32:00.574 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+07:32:00.574 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+07:32:01.848 INFO - HTTP API and WebSockets server listening at 8080 port.
+07:32:01.849 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+07:32:01.849 INFO - Mqtt hardware server listening at 8440 port.
+07:34:15.452 INFO - Using data dir 'dataFolder'
+07:34:15.767 INFO - Region : local. Host : 192.168.1.103.
+07:34:17.176 INFO - Initializing gmail smtp mail transport. Username : bangerakritik@gmail.com. SMTP host : smtp.gmail.com:587
+07:34:17.190 INFO - Reports : 0
+07:34:17.190 INFO - Didn't find custom user certificates.
+07:34:17.191 INFO - Didn't find Let's Encrypt certificates.
+07:34:17.191 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+07:34:17.191 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+07:34:19.000 INFO - HTTP API and WebSockets server listening at 8080 port.
+07:34:19.001 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+07:34:19.002 INFO - Mqtt hardware server listening at 8440 port.
+07:36:49.934 INFO - Using data dir 'dataFolder'
+07:36:50.245 INFO - Region : local. Host : 192.168.1.103.
+07:36:51.668 INFO - Initializing gmail smtp mail transport. Username : bangerakritik@gmail.com. SMTP host : smtp.gmail.com:587
+07:36:51.681 INFO - Reports : 0
+07:36:51.681 INFO - Didn't find custom user certificates.
+07:36:51.682 INFO - Didn't find Let's Encrypt certificates.
+07:36:51.682 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+07:36:51.682 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+07:36:52.765 INFO - HTTP API and WebSockets server listening at 8080 port.
+07:36:52.766 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+07:36:52.766 INFO - Mqtt hardware server listening at 8440 port.
+07:38:22.540 INFO - Using data dir 'dataFolder'
+07:38:22.848 INFO - Region : local. Host : 192.168.1.103.
+07:38:23.261 INFO - Initializing gmail smtp mail transport. Username : bangerakritik@gmail.com. SMTP host : smtp.gmail.com:587
+07:38:23.277 INFO - Reports : 0
+07:38:23.278 INFO - Didn't find custom user certificates.
+07:38:23.278 INFO - Didn't find Let's Encrypt certificates.
+07:38:23.278 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+07:38:23.278 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+07:38:26.240 INFO - HTTP API and WebSockets server listening at 8080 port.
+07:38:26.241 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+07:38:26.242 INFO - Mqtt hardware server listening at 8440 port.
+07:39:50.083 INFO - Using data dir 'dataFolder'
+07:39:50.393 INFO - Region : local. Host : 192.168.1.103.
+07:39:51.798 INFO - Initializing gmail smtp mail transport. Username : bangerakritik@gmail.com. SMTP host : smtp.gmail.com:587
+07:39:51.812 INFO - Reports : 0
+07:39:51.812 INFO - Didn't find custom user certificates.
+07:39:51.813 INFO - Didn't find Let's Encrypt certificates.
+07:39:51.813 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+07:39:51.813 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+07:39:52.897 INFO - HTTP API and WebSockets server listening at 8080 port.
+07:39:52.898 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+07:39:52.899 INFO - Mqtt hardware server listening at 8440 port.
+07:39:54.033 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+07:40:06.907 INFO - bangerakritik@gmail.com hardware joined.
+07:41:47.856 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+08:08:39.126 INFO - Updating config single_token_mail_body.txt. New body : 
+08:08:39.126 INFO - <html>
+    <h1>KLON A.I.</h1>
+</html>
+08:08:48.733 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+08:28:54.984 INFO - bangerakritik@gmail.com hardware joined.
+08:28:55.292 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+08:30:31.163 INFO - bangerakritik@gmail.com hardware joined.
+08:35:33.273 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+08:39:31.734 INFO - bangerakritik@gmail.com hardware joined.
+08:43:08.252 INFO - Updating config single_token_mail_body.txt. New body : 
+08:43:08.252 INFO - KLON A.I.
+08:44:41.181 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+08:46:21.982 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+08:58:17.657 INFO - bangerakritik@gmail.com hardware joined.
+09:02:25.905 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+09:04:09.512 INFO - bangerakritik@gmail.com hardware joined.
+09:14:09.459 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+09:18:16.610 INFO - bangerakritik@gmail.com hardware joined.
+09:22:23.328 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+09:24:10.093 INFO - bangerakritik@gmail.com hardware joined.
+09:24:15.448 INFO - bangerakritik@gmail.com hardware joined.
+09:24:17.568 INFO - bangerakritik@gmail.com hardware joined.
+09:24:19.592 INFO - bangerakritik@gmail.com hardware joined.
+09:24:21.215 INFO - bangerakritik@gmail.com hardware joined.
+09:24:22.746 INFO - bangerakritik@gmail.com hardware joined.
+09:24:24.260 INFO - bangerakritik@gmail.com hardware joined.
+09:24:25.778 INFO - bangerakritik@gmail.com hardware joined.
+09:24:27.296 INFO - bangerakritik@gmail.com hardware joined.
+09:24:28.816 INFO - bangerakritik@gmail.com hardware joined.
+09:24:30.343 INFO - bangerakritik@gmail.com hardware joined.
+09:24:32.363 INFO - bangerakritik@gmail.com hardware joined.
+09:24:33.978 INFO - bangerakritik@gmail.com hardware joined.
+09:24:36.114 INFO - bangerakritik@gmail.com hardware joined.
+09:24:38.134 INFO - bangerakritik@gmail.com hardware joined.
+09:24:39.656 INFO - bangerakritik@gmail.com hardware joined.
+09:24:41.179 INFO - bangerakritik@gmail.com hardware joined.
+09:24:42.695 INFO - bangerakritik@gmail.com hardware joined.
+09:24:44.210 INFO - bangerakritik@gmail.com hardware joined.
+09:24:47.390 INFO - bangerakritik@gmail.com hardware joined.
+09:24:49.411 INFO - bangerakritik@gmail.com hardware joined.
+09:24:51.540 INFO - bangerakritik@gmail.com hardware joined.
+09:24:56.890 INFO - bangerakritik@gmail.com hardware joined.
+09:25:02.342 INFO - bangerakritik@gmail.com hardware joined.
+09:25:03.862 INFO - bangerakritik@gmail.com hardware joined.
+09:25:05.376 INFO - bangerakritik@gmail.com hardware joined.
+09:25:07.001 INFO - bangerakritik@gmail.com hardware joined.
+09:25:09.018 INFO - bangerakritik@gmail.com hardware joined.
+09:25:10.541 INFO - bangerakritik@gmail.com hardware joined.
+09:25:12.065 INFO - bangerakritik@gmail.com hardware joined.
+09:25:13.580 INFO - bangerakritik@gmail.com hardware joined.
+09:25:15.108 INFO - bangerakritik@gmail.com hardware joined.
+09:25:17.242 INFO - bangerakritik@gmail.com hardware joined.
+09:25:18.761 INFO - bangerakritik@gmail.com hardware joined.
+09:25:20.280 INFO - bangerakritik@gmail.com hardware joined.
+09:25:22.405 INFO - bangerakritik@gmail.com hardware joined.
+09:25:24.418 INFO - bangerakritik@gmail.com hardware joined.
+09:25:26.443 INFO - bangerakritik@gmail.com hardware joined.
+09:25:32.292 INFO - bangerakritik@gmail.com hardware joined.
+09:25:37.642 INFO - bangerakritik@gmail.com hardware joined.
+09:25:39.173 INFO - bangerakritik@gmail.com hardware joined.
+09:25:40.694 INFO - bangerakritik@gmail.com hardware joined.
+09:25:42.209 INFO - bangerakritik@gmail.com hardware joined.
+09:25:43.739 INFO - bangerakritik@gmail.com hardware joined.
+09:25:45.263 INFO - bangerakritik@gmail.com hardware joined.
+09:25:46.890 INFO - bangerakritik@gmail.com hardware joined.
+09:25:48.416 INFO - bangerakritik@gmail.com hardware joined.
+09:25:49.934 INFO - bangerakritik@gmail.com hardware joined.
+09:25:51.958 INFO - bangerakritik@gmail.com hardware joined.
+09:25:53.476 INFO - bangerakritik@gmail.com hardware joined.
+09:25:54.995 INFO - bangerakritik@gmail.com hardware joined.
+09:25:56.616 INFO - bangerakritik@gmail.com hardware joined.
+09:25:58.136 INFO - bangerakritik@gmail.com hardware joined.
+09:26:00.152 INFO - bangerakritik@gmail.com hardware joined.
+09:26:02.271 INFO - bangerakritik@gmail.com hardware joined.
+09:26:03.791 INFO - bangerakritik@gmail.com hardware joined.
+09:26:05.310 INFO - bangerakritik@gmail.com hardware joined.
+09:26:06.932 INFO - bangerakritik@gmail.com hardware joined.
+09:26:08.455 INFO - bangerakritik@gmail.com hardware joined.
+09:26:10.472 INFO - bangerakritik@gmail.com hardware joined.
+09:26:12.573 INFO - bangerakritik@gmail.com hardware joined.
+09:26:14.591 INFO - bangerakritik@gmail.com hardware joined.
+09:26:16.210 INFO - bangerakritik@gmail.com hardware joined.
+09:26:18.228 INFO - bangerakritik@gmail.com hardware joined.
+09:26:20.252 INFO - bangerakritik@gmail.com hardware joined.
+09:26:21.770 INFO - bangerakritik@gmail.com hardware joined.
+09:26:23.294 INFO - bangerakritik@gmail.com hardware joined.
+09:26:24.820 INFO - bangerakritik@gmail.com hardware joined.
+09:26:26.344 INFO - bangerakritik@gmail.com hardware joined.
+09:26:27.870 INFO - bangerakritik@gmail.com hardware joined.
+09:26:29.391 INFO - bangerakritik@gmail.com hardware joined.
+09:26:31.023 INFO - bangerakritik@gmail.com hardware joined.
+09:26:33.174 INFO - bangerakritik@gmail.com hardware joined.
+09:26:35.193 INFO - bangerakritik@gmail.com hardware joined.
+09:26:37.297 INFO - bangerakritik@gmail.com hardware joined.
+09:26:38.823 INFO - bangerakritik@gmail.com hardware joined.
+09:26:40.348 INFO - bangerakritik@gmail.com hardware joined.
+09:26:41.861 INFO - bangerakritik@gmail.com hardware joined.
+09:26:43.388 INFO - bangerakritik@gmail.com hardware joined.
+09:26:45.409 INFO - bangerakritik@gmail.com hardware joined.
+09:26:46.929 INFO - bangerakritik@gmail.com hardware joined.
+09:26:49.457 INFO - bangerakritik@gmail.com hardware joined.
+09:26:51.065 INFO - bangerakritik@gmail.com hardware joined.
+09:26:53.079 INFO - bangerakritik@gmail.com hardware joined.
+09:26:54.598 INFO - bangerakritik@gmail.com hardware joined.
+09:26:56.612 INFO - bangerakritik@gmail.com hardware joined.
+09:26:58.128 INFO - bangerakritik@gmail.com hardware joined.
+09:26:59.652 INFO - bangerakritik@gmail.com hardware joined.
+09:27:01.279 INFO - bangerakritik@gmail.com hardware joined.
+09:27:03.305 INFO - bangerakritik@gmail.com hardware joined.
+09:27:04.824 INFO - bangerakritik@gmail.com hardware joined.
+09:27:10.189 INFO - bangerakritik@gmail.com hardware joined.
+09:27:15.533 INFO - bangerakritik@gmail.com hardware joined.
+09:27:17.052 INFO - bangerakritik@gmail.com hardware joined.
+09:27:19.073 INFO - bangerakritik@gmail.com hardware joined.
+09:27:21.097 INFO - bangerakritik@gmail.com hardware joined.
+09:27:22.617 INFO - bangerakritik@gmail.com hardware joined.
+09:27:24.135 INFO - bangerakritik@gmail.com hardware joined.
+09:27:26.263 INFO - bangerakritik@gmail.com hardware joined.
+09:27:28.282 INFO - bangerakritik@gmail.com hardware joined.
+09:27:30.302 INFO - bangerakritik@gmail.com hardware joined.
+09:27:31.916 INFO - bangerakritik@gmail.com hardware joined.
+09:27:33.438 INFO - bangerakritik@gmail.com hardware joined.
+09:27:35.460 INFO - bangerakritik@gmail.com hardware joined.
+09:28:02.259 INFO - bangerakritik@gmail.com hardware joined.
+09:28:03.120 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+09:30:07.925 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+09:30:20.599 INFO - bangerakritik@gmail.com hardware joined.
+09:46:04.596 INFO - bangerakritik@gmail.com hardware joined.
+10:11:41.592 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+10:32:24.829 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+11:58:37.123 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+11:58:38.999 INFO - bangerakritik@gmail.com hardware joined.
+12:05:16.510 INFO - bangerakritik@gmail.com hardware joined.
+12:06:23.191 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+12:57:22.634 INFO - bangerakritik@gmail.com hardware joined.
+12:57:36.506 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+13:06:59.085 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+13:51:25.615 INFO - Using data dir 'dataFolder'
+13:51:25.972 INFO - Region : local. Host : 192.168.1.103.
+13:51:27.451 INFO - Initializing gmail smtp mail transport. Username : bangerakritik@gmail.com. SMTP host : smtp.gmail.com:587
+13:51:27.466 INFO - Reports : 0
+13:51:27.466 INFO - Didn't find custom user certificates.
+13:51:27.467 INFO - Didn't find Let's Encrypt certificates.
+13:51:27.467 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+13:51:27.467 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+13:51:28.961 INFO - HTTP API and WebSockets server listening at 8080 port.
+13:51:28.962 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+13:51:28.962 INFO - Mqtt hardware server listening at 8440 port.
+13:51:29.524 INFO - bangerakritik@gmail.com hardware joined.
+13:51:30.492 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+13:51:31.061 INFO - bangerakritik@gmail.com hardware joined.
+13:51:32.685 INFO - bangerakritik@gmail.com hardware joined.
+13:51:34.705 INFO - bangerakritik@gmail.com hardware joined.
+13:51:36.732 INFO - bangerakritik@gmail.com hardware joined.
+13:51:38.887 INFO - bangerakritik@gmail.com hardware joined.
+13:51:40.427 INFO - bangerakritik@gmail.com hardware joined.
+13:51:41.946 INFO - bangerakritik@gmail.com hardware joined.
+13:51:43.584 INFO - bangerakritik@gmail.com hardware joined.
+13:51:45.105 INFO - bangerakritik@gmail.com hardware joined.
+13:51:46.624 INFO - bangerakritik@gmail.com hardware joined.
+13:51:48.150 INFO - bangerakritik@gmail.com hardware joined.
+13:51:49.669 INFO - bangerakritik@gmail.com hardware joined.
+13:51:51.198 INFO - bangerakritik@gmail.com hardware joined.
+13:51:53.224 INFO - bangerakritik@gmail.com hardware joined.
+13:51:54.756 INFO - bangerakritik@gmail.com hardware joined.
+13:51:56.284 INFO - bangerakritik@gmail.com hardware joined.
+13:51:58.313 INFO - bangerakritik@gmail.com hardware joined.
+13:51:59.841 INFO - bangerakritik@gmail.com hardware joined.
+13:52:01.364 INFO - bangerakritik@gmail.com hardware joined.
+13:52:27.097 INFO - bangerakritik@gmail.com hardware joined.
+13:52:28.552 INFO - bangerakritik@gmail.com hardware joined.
+13:52:34.345 INFO - bangerakritik@gmail.com hardware joined.
+13:52:35.847 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+13:52:39.630 INFO - bangerakritik@gmail.com hardware joined.
+13:52:41.081 INFO - bangerakritik@gmail.com hardware joined.
+13:52:42.628 INFO - bangerakritik@gmail.com hardware joined.
+13:52:44.595 INFO - bangerakritik@gmail.com hardware joined.
+13:52:46.051 INFO - bangerakritik@gmail.com hardware joined.
+13:52:49.293 INFO - bangerakritik@gmail.com hardware joined.
+13:52:51.258 INFO - bangerakritik@gmail.com hardware joined.
+13:52:52.718 INFO - bangerakritik@gmail.com hardware joined.
+13:52:54.192 INFO - bangerakritik@gmail.com hardware joined.
+13:52:59.487 INFO - bangerakritik@gmail.com hardware joined.
+13:53:04.774 INFO - bangerakritik@gmail.com hardware joined.
+13:53:06.222 INFO - bangerakritik@gmail.com hardware joined.
+13:53:07.772 INFO - bangerakritik@gmail.com hardware joined.
+13:53:09.221 INFO - bangerakritik@gmail.com hardware joined.
+13:53:10.703 INFO - bangerakritik@gmail.com hardware joined.
+13:53:12.654 INFO - bangerakritik@gmail.com hardware joined.
+13:53:14.102 INFO - bangerakritik@gmail.com hardware joined.
+13:53:15.557 INFO - bangerakritik@gmail.com hardware joined.
+13:53:17.005 INFO - bangerakritik@gmail.com hardware joined.
+13:53:18.564 INFO - bangerakritik@gmail.com hardware joined.
+13:53:23.845 INFO - bangerakritik@gmail.com hardware joined.
+13:53:49.572 INFO - bangerakritik@gmail.com hardware joined.
+14:02:36.816 INFO - bangerakritik@gmail.com hardware joined.
+14:19:03.435 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+14:19:40.565 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+14:32:01.260 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+14:36:30.495 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+18:49:14.732 INFO - Using data dir 'dataFolder'
+18:49:15.052 INFO - Region : local. Host : 192.168.1.103.
+18:49:16.474 INFO - Initializing gmail smtp mail transport. Username : bangerakritik@gmail.com. SMTP host : smtp.gmail.com:587
+18:49:16.488 INFO - Reports : 0
+18:49:16.488 INFO - Didn't find custom user certificates.
+18:49:16.489 INFO - Didn't find Let's Encrypt certificates.
+18:49:16.489 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+18:49:16.489 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+18:49:17.642 INFO - HTTP API and WebSockets server listening at 8080 port.
+18:49:17.643 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+18:49:17.643 INFO - Mqtt hardware server listening at 8440 port.
+18:49:25.680 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+18:49:40.523 INFO - Creating new dashboard.
+18:52:48.389 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+18:54:06.361 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+19:10:36.652 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+19:51:20.862 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+19:59:56.750 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+20:00:48.761 INFO - bangerakritik@gmail.com hardware joined.
+20:01:01.545 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+20:02:23.389 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+20:02:51.870 INFO - bangerakritik@gmail.com hardware joined.
+20:07:52.396 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+20:09:03.623 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+20:09:26.596 INFO - bangerakritik@gmail.com hardware joined.
+20:11:06.181 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+20:11:48.730 INFO - bangerakritik@gmail.com hardware joined.
+20:15:07.010 INFO - bangerakritik@gmail.com hardware joined.
+20:17:08.129 INFO - bangerakritik@gmail.com hardware joined.
+20:19:14.670 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+20:21:53.917 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+20:22:25.968 INFO - bangerakritik@gmail.com hardware joined.
+20:24:41.981 INFO - bangerakritik@gmail.com hardware joined.
+20:34:20.368 INFO - bangerakritik@gmail.com hardware joined.
+20:36:15.877 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+20:38:56.971 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+20:39:36.072 INFO - bangerakritik@gmail.com hardware joined.
+20:40:49.017 INFO - bangerakritik@gmail.com hardware joined.
+20:43:57.140 INFO - bangerakritik@gmail.com hardware joined.
+20:47:37.632 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+20:48:09.289 INFO - bangerakritik@gmail.com hardware joined.
+20:49:28.936 INFO - bangerakritik@gmail.com hardware joined.
+20:51:00.971 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+20:51:41.168 INFO - bangerakritik@gmail.com hardware joined.
+21:03:28.260 INFO - bangerakritik@gmail.com hardware joined.
+21:03:57.691 INFO - bangerakritik@gmail.com hardware joined.
+21:04:07.813 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+21:12:55.150 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+21:30:17.528 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.

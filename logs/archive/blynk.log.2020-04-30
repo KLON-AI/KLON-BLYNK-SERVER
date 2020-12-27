@@ -1,0 +1,69 @@
+23:01:30.950 INFO - Using data dir 'dataFolder'
+23:01:31.014 INFO - Region : local. Host : 192.168.1.103.
+23:01:32.506 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+23:01:32.646 INFO - Reports : 0
+23:01:32.647 INFO - Didn't find custom user certificates.
+23:01:32.647 INFO - Didn't find Let's Encrypt certificates.
+23:01:32.647 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+23:01:32.647 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+23:01:34.656 INFO - HTTP API and WebSockets server listening at 8080 port.
+23:01:34.657 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+23:01:34.658 INFO - Mqtt hardware server listening at 8440 port.
+23:05:53.495 INFO - admin@blynk.cc Blynk-app (android-22715) joined.
+23:06:09.662 INFO - Trying register user : bangerakritik@gmail.com, app : Blynk
+23:06:09.670 INFO - Registered bangerakritik@gmail.com.
+23:06:09.684 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+23:06:13.093 WARN - Error sending greeting email for bangerakritik@gmail.com.
+23:06:27.594 INFO - Creating new dashboard.
+23:06:33.200 ERROR- Error sending email auth token to user : bangerakritik@gmail.com. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials dw12sm349377pjb.31 - gsmtp
+
+23:11:59.785 INFO - bangerakritik@gmail.com hardware joined.
+23:12:05.159 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+23:13:26.361 INFO - bangerakritik@gmail.com hardware joined.
+23:15:01.686 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+23:15:10.819 INFO - Creating new dashboard.
+23:15:14.781 ERROR- Error sending email auth token to user : bangerakritik@gmail.com. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials o68sm336286pfb.206 - gsmtp
+
+23:16:10.283 INFO - bangerakritik@gmail.com hardware joined.
+23:16:44.039 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+23:17:03.833 INFO - bangerakritik@gmail.com hardware joined.
+23:17:26.520 ERROR- Error sending email auth token to user : bangerakritik@gmail.com. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials v64sm374415pfb.20 - gsmtp
+
+23:20:09.918 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+23:20:30.240 INFO - bangerakritik@gmail.com hardware joined.
+23:22:00.203 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+23:22:06.038 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+23:22:16.268 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+23:27:38.642 INFO - Using data dir 'dataFolder'
+23:27:38.955 INFO - Region : local. Host : 192.168.1.103.
+23:27:40.388 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+23:27:40.403 INFO - Reports : 0
+23:27:40.403 INFO - Didn't find custom user certificates.
+23:27:40.403 INFO - Didn't find Let's Encrypt certificates.
+23:27:40.403 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+23:27:40.403 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+23:27:43.397 INFO - HTTP API and WebSockets server listening at 8080 port.
+23:27:43.398 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+23:27:43.399 INFO - Mqtt hardware server listening at 8440 port.
+23:27:46.055 INFO - bangerakritik@gmail.com hardware joined.
+23:27:48.503 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+23:30:16.748 INFO - Using data dir 'dataFolder'
+23:30:17.064 INFO - Region : local. Host : 192.168.1.103.
+23:30:18.521 INFO - Initializing gmail smtp mail transport. Username : example@gmail.com. SMTP host : smtp.gmail.com:587
+23:30:18.537 INFO - Reports : 0
+23:30:18.537 INFO - Didn't find custom user certificates.
+23:30:18.538 INFO - Didn't find Let's Encrypt certificates.
+23:30:18.538 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+23:30:18.538 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+23:30:20.488 INFO - HTTP API and WebSockets server listening at 8080 port.
+23:30:20.489 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+23:30:20.490 INFO - Mqtt hardware server listening at 8440 port.
+23:30:22.032 INFO - bangerakritik@gmail.com hardware joined.
+23:30:28.323 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+23:32:00.116 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+23:33:48.688 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+23:34:49.125 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.
+23:38:07.196 INFO - bangerakritik@gmail.com Blynk-app (android-22715) joined.

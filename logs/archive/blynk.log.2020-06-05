@@ -1,0 +1,24 @@
+14:02:29.242 INFO - Using data dir 'dataFolder'
+14:02:29.640 INFO - Region : local. Host : 192.168.56.1.
+14:02:30.203 INFO - Initializing gmail smtp mail transport. Username : bangerakritik@gmail.com. SMTP host : smtp.gmail.com:587
+14:02:30.217 INFO - Reports : 0
+14:02:30.217 INFO - Didn't find custom user certificates.
+14:02:30.218 INFO - Didn't find Let's Encrypt certificates.
+14:02:30.218 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+14:02:30.218 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+14:02:31.301 INFO - HTTP API and WebSockets server listening at 8080 port.
+14:02:31.302 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+14:02:31.302 INFO - Mqtt hardware server listening at 8440 port.
+14:02:32.735 INFO - bangerakritik@gmail.com hardware joined.
+14:03:27.882 INFO - Using data dir 'dataFolder'
+14:03:28.222 INFO - Region : local. Host : 192.168.56.1.
+14:03:28.736 INFO - Initializing gmail smtp mail transport. Username : bangerakritik@gmail.com. SMTP host : smtp.gmail.com:587
+14:03:28.749 INFO - Reports : 0
+14:03:28.749 INFO - Didn't find custom user certificates.
+14:03:28.750 INFO - Didn't find Let's Encrypt certificates.
+14:03:28.750 WARN - You didn't specified 'server.host' or 'contact.email' properties in server.properties file. Automatic certificate generation is turned off. Please specify above properties for automatic certificates retrieval.
+14:03:28.750 WARN - ATTENTION. Server certificate paths (cert : 'E:\Server', key : 'E:\Server') not valid. Using embedded server certs and one way ssl. This is not secure. Please replace it with your own certs.
+14:03:31.401 INFO - HTTP API and WebSockets server listening at 8080 port.
+14:03:31.402 INFO - HTTPS API, WebSockets and Admin page server listening at 9443 port.
+14:03:31.403 INFO - Mqtt hardware server listening at 8440 port.
+14:03:33.145 INFO - bangerakritik@gmail.com hardware joined.
